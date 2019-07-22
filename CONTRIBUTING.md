@@ -7,7 +7,7 @@ Thanks for considering contributing to Brox Browser!
 We welcome any type of contribution, not only code. You can help with
 - **QA**: file bug reports, the more details you can give the better (e.g. screenshots with the console open)
 - **Community**: presenting the project at meetups, organizing a dedicated meetup for the local community, ...
-- **Code**: take a look at the [open issues](https://github.com/beakerbrowser/beaker/issues). Even if you can't write code, commenting on them, showing that you care about a given issue matters. It helps us triage them.
+- **Code**: take a look at the [open issues](https://github.com/broxme/brox-browser/issues). Even if you can't write code, commenting on them, showing that you care about a given issue matters. It helps us triage them.
 
 ## Building from source
 
@@ -54,7 +54,7 @@ If you're doing development, `npm run watch` to have assets build automatically.
 
 To debug the background process start electron with the `--inspect` argument pointing to the `app` directory, e.g. `node_modules/.bin/electron --inspect app`.  You can then attach an external debugger (e.g. Chrome devtools).
 
-To debug the shell window itself (i.e. the beaker browser chrome), press `CmdOrCtrl+alt+shift+I` to open the devtools.
+To debug the shell window itself (i.e. the brox browser chrome), press `CmdOrCtrl+alt+shift+I` to open the devtools.
 
 To debug a built-in pages (e.g. the Settings or Library pages), press `CmdOrCtrl+shift+I` to open the devtools.
 
@@ -76,7 +76,7 @@ npm test
 
 ## Submitting code
 
-Any code change should be submitted as a pull request. The description should explain what the code does and give steps to execute it. The pull request should also contain tests, if applicable. For example, a PR that changes a part of the Beaker UI will likely not need tests, but a PR that updates Brox Browser's networking stack would.
+Any code change should be submitted as a pull request. The description should explain what the code does and give steps to execute it. The pull request should also contain tests, if applicable. For example, a PR that changes a part of the Brox browser UI will likely not need tests, but a PR that updates Brox Browser's networking stack would.
 
 ## Code review process
 
