@@ -752,7 +752,7 @@ debug@^4.1.1:
     ms "^2.1.1"
 
 "debug@git://github.com/beakerbrowser/debug.git#8d79a96e2c5f79527d7580960be3da9ae246ed8e":
-  version "2.6.8"
+  version "2.6.9"
   resolved "git://github.com/beakerbrowser/debug.git#8d79a96e2c5f79527d7580960be3da9ae246ed8e"
   dependencies:
     ms "2.0.0"
