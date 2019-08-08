@@ -80,4 +80,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Credit
 
 Brox browser was cloned from https://github.com/szwacz/electron-boilerplate.
+<br >
 Brox browser core from https://beakerbrowser.com
